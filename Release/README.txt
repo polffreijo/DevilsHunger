@@ -1,4 +1,4 @@
-Release .exe of Devil's Hunger.
+Release .exe of Devil's Hunger. Audio Files Included.
 
 Current Release version is in Spanish.
 
